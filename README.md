@@ -32,7 +32,7 @@ The data used in this dashboard is sourced from Kaggle's IPL dataset, which cont
 
 Accessing the Dashboard
 
-To access the IPL Dashboard and explore the visualizations, click on the following link: IPL Dashboard
+To access the IPL Dashboard and explore the visualizations, click on the following link: https://public.tableau.com/app/profile/sanketh.madduri3737/viz/ipl_17107000253100/ipl?publish=yes
 
 Getting Started
 To get started with the dashboard, simply click on the provided link to access the Tableau visualization. You can interact with the dashboard to view different metrics, filter data by season or team, and gain insights into IPL trends and performance.
